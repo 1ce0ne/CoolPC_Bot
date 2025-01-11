@@ -1,4 +1,9 @@
 <div align="center">
+<h1>In development...</h1>
+</div>
+
+
+<div align="center">
 <h1>Hi, this is CoolPC Bot 👋</h1>
 </div>
 
@@ -8,7 +13,3 @@
 
 </br>
 </br>
-
-<div align="center">
-<h1>In development...</h1>
-</div>
